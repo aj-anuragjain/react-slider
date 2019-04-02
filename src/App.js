@@ -17,12 +17,6 @@ class App extends Component {
           <div className='col s12 l6'>
             <Slider sliderName="sliderB" />
           </div>
-          <div className='col s12 l6'>
-            <Slider sliderName="sliderC" />
-          </div>
-          <div className='col s12 l6'>
-            <Slider sliderName="sliderD" />
-          </div>
         </div>
       </div>
     );
